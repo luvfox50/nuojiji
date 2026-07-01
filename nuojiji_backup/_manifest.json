@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1782931163312,
+  "timestamp": 1782931585416,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -63,47 +63,6 @@
     "fontStore",
     "_migration"
   ],
-  "chunkedTables": {
-    "messages": 7
-  },
-  "completedTables": {
-    "characters": true,
-    "worldBooks": true,
-    "stickers": true,
-    "kaomojis": true,
-    "users": true,
-    "userState": true,
-    "userPosts": true,
-    "chatSettings": true,
-    "favorites": true,
-    "memory": true,
-    "summaryEntries": true,
-    "callLogs": true,
-    "roleStickers": true,
-    "tmSessions": true,
-    "tmStories": true,
-    "multiSceneSessions": true,
-    "multiSceneStories": true,
-    "multiSceneCastSettings": true,
-    "multiSceneSessionSettings": true,
-    "multiSceneSessionSummaries": true,
-    "customNoises": true,
-    "flashMoments": true,
-    "groupSettings": true,
-    "userLinks": true,
-    "userMessages": true,
-    "ttsAudio": true,
-    "forumData": true,
-    "calendarData": true,
-    "groupChats": true,
-    "xinsheng": true,
-    "pomodoroSessions": true,
-    "couplesData": true,
-    "imageStore": true,
-    "stickerStore": true,
-    "quickReplies": true,
-    "goingOutState": true
-  },
   "source": "auto",
   "inProgress": true
 }
